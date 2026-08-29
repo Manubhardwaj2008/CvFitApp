@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <!-- Outer rounded shield / health hexagon -->
+    <path
+        android:fillColor="#00BCD4"
+        android:pathData="M24,4 L40,10 L40,24 C40,33.5 33.2,42.2 24,44 C14.8,42.2 8,33.5 8,24 L8,10 L24,4 Z" />
+    <path
+        android:fillColor="#071B2F"
+        android:pathData="M24,7 L37,12.2 L37,24 C37,31.8 31.5,39 24,40.7 C16.5,39 11,31.8 11,24 L11,12.2 L24,7 Z" />
+    <!-- Pulse Line / Cross in vibrant cyan -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M16,24 L21,24 L23,17 L26,31 L28,21 L30,24 L32,24 C32.55,24 33,24.45 33,25 C33,25.55 32.55,26 32,26 L29,26 L27.5,23.5 L25.5,33 C25.3,33.6 24.5,33.7 24.2,33.1 L21.8,22.2 L20.5,26 L16,26 C15.45,26 15,25.55 15,25 C15,24.45 15.45,24 16,24 Z" />
+</vector>

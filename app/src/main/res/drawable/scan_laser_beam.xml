@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="320dp"
+    android:height="16dp"
+    android:viewportWidth="320"
+    android:viewportHeight="16">
+    <!-- Soft glow band -->
+    <path
+        android:fillColor="#3000E5FF"
+        android:pathData="M0,4 L310,4 L310,12 L0,12 Z" />
+    <path
+        android:fillColor="#6000E5FF"
+        android:pathData="M0,6 L312,6 L312,10 L0,10 Z" />
+    <!-- Bright laser core line -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M0,8 L314,8"
+        android:strokeColor="#E0F7FA"
+        android:strokeWidth="2" />
+    <!-- Glowing endpoint dot on the right -->
+    <path
+        android:fillColor="#4000E5FF"
+        android:pathData="M314,8m-6,0a6,6 0 1,1 12,0a6,6 0 1,1 -12,0" />
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M314,8m-3,0a3,3 0 1,1 6,0a3,3 0 1,1 -6,0" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M314,8m-1.5,0a1.5,1.5 0 1,1 3,0a1.5,1.5 0 1,1 -3,0" />
+</vector>

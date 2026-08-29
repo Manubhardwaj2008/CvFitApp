@@ -1,0 +1,9 @@
+com.manu.bsw017.health_monitor-pngs-0 D:\Desktop\CvFitApp\health_monitor\build\generated\res\pngs\debug
+com.manu.bsw017.health_monitor-updated_navigation_xml-1 D:\Desktop\CvFitApp\health_monitor\build\generated\updated_navigation_xml\debug
+com.manu.bsw017.health_monitor-mergeDebugResources-2 D:\Desktop\CvFitApp\health_monitor\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.manu.bsw017.health_monitor-mergeDebugResources-3 D:\Desktop\CvFitApp\health_monitor\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.manu.bsw017.health_monitor-debug-4 D:\Desktop\CvFitApp\health_monitor\build\intermediates\merged_res\debug\mergeDebugResources
+com.manu.bsw017.health_monitor-debug-5 D:\Desktop\CvFitApp\health_monitor\build\intermediates\packaged_res\debug\packageDebugResources
+com.manu.bsw017.health_monitor-debug-6 D:\Desktop\CvFitApp\health_monitor\src\debug\res
+com.manu.bsw017.health_monitor-main-7 D:\Desktop\CvFitApp\health_monitor\src\main\res
+gradleHome-0 C:\Users\manub\.gradle

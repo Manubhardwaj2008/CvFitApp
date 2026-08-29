@@ -1,0 +1,55 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.manu.bsw017" >
+4
+5    <uses-sdk android:minSdkVersion="26" />
+5-->INJECTED
+5-->INJECTED
+6
+7    <uses-feature
+7-->D:\Desktop\CvFitApp\health_monitor\src\main\AndroidManifest.xml:4:5-6:35
+8        android:name="android.hardware.bluetooth_le"
+8-->D:\Desktop\CvFitApp\health_monitor\src\main\AndroidManifest.xml:5:9-53
+9        android:required="true" />
+9-->D:\Desktop\CvFitApp\health_monitor\src\main\AndroidManifest.xml:6:9-32
+10
+11    <!-- Android 11 and lower -->
+12    <uses-permission
+12-->D:\Desktop\CvFitApp\health_monitor\src\main\AndroidManifest.xml:9:5-95
+13        android:name="android.permission.BLUETOOTH"
+13-->D:\Desktop\CvFitApp\health_monitor\src\main\AndroidManifest.xml:9:22-65
+14        android:maxSdkVersion="30" />
+14-->D:\Desktop\CvFitApp\health_monitor\src\main\AndroidManifest.xml:9:66-92
+15    <uses-permission
+15-->D:\Desktop\CvFitApp\health_monitor\src\main\AndroidManifest.xml:10:5-101
+16        android:name="android.permission.BLUETOOTH_ADMIN"
+16-->D:\Desktop\CvFitApp\health_monitor\src\main\AndroidManifest.xml:10:22-71
+17        android:maxSdkVersion="30" />
+17-->D:\Desktop\CvFitApp\health_monitor\src\main\AndroidManifest.xml:10:72-98
+18    <uses-permission
+18-->D:\Desktop\CvFitApp\health_monitor\src\main\AndroidManifest.xml:11:5-106
+19        android:name="android.permission.ACCESS_FINE_LOCATION"
+19-->D:\Desktop\CvFitApp\health_monitor\src\main\AndroidManifest.xml:11:22-76
+20        android:maxSdkVersion="30" />
+20-->D:\Desktop\CvFitApp\health_monitor\src\main\AndroidManifest.xml:11:77-103
+21
+22    <!-- Android 12+ -->
+23    <uses-permission
+23-->D:\Desktop\CvFitApp\health_monitor\src\main\AndroidManifest.xml:14:5-16:58
+24        android:name="android.permission.BLUETOOTH_SCAN"
+24-->D:\Desktop\CvFitApp\health_monitor\src\main\AndroidManifest.xml:15:9-57
+25        android:usesPermissionFlags="neverForLocation" />
+25-->D:\Desktop\CvFitApp\health_monitor\src\main\AndroidManifest.xml:16:9-55
+26    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
+26-->D:\Desktop\CvFitApp\health_monitor\src\main\AndroidManifest.xml:17:5-76
+26-->D:\Desktop\CvFitApp\health_monitor\src\main\AndroidManifest.xml:17:22-73
+27
+28    <!-- Needed to POST readings to the backend -->
+29    <uses-permission android:name="android.permission.INTERNET" />
+29-->D:\Desktop\CvFitApp\health_monitor\src\main\AndroidManifest.xml:20:5-67
+29-->D:\Desktop\CvFitApp\health_monitor\src\main\AndroidManifest.xml:20:22-64
+30    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+30-->D:\Desktop\CvFitApp\health_monitor\src\main\AndroidManifest.xml:21:5-79
+30-->D:\Desktop\CvFitApp\health_monitor\src\main\AndroidManifest.xml:21:22-76
+31
+32</manifest>

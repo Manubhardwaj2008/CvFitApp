@@ -1,0 +1,58 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Desktop\CvFitApp\health_monitor\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\Desktop\CvFitApp\health_monitor\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		INJECTED from D:\Desktop\CvFitApp\health_monitor\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Desktop\CvFitApp\health_monitor\src\main\AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.bluetooth_le
+ADDED from D:\Desktop\CvFitApp\health_monitor\src\main\AndroidManifest.xml:4:5-6:35
+	android:required
+		ADDED from D:\Desktop\CvFitApp\health_monitor\src\main\AndroidManifest.xml:6:9-32
+	android:name
+		ADDED from D:\Desktop\CvFitApp\health_monitor\src\main\AndroidManifest.xml:5:9-53
+uses-permission#android.permission.BLUETOOTH
+ADDED from D:\Desktop\CvFitApp\health_monitor\src\main\AndroidManifest.xml:9:5-95
+	android:maxSdkVersion
+		ADDED from D:\Desktop\CvFitApp\health_monitor\src\main\AndroidManifest.xml:9:66-92
+	android:name
+		ADDED from D:\Desktop\CvFitApp\health_monitor\src\main\AndroidManifest.xml:9:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from D:\Desktop\CvFitApp\health_monitor\src\main\AndroidManifest.xml:10:5-101
+	android:maxSdkVersion
+		ADDED from D:\Desktop\CvFitApp\health_monitor\src\main\AndroidManifest.xml:10:72-98
+	android:name
+		ADDED from D:\Desktop\CvFitApp\health_monitor\src\main\AndroidManifest.xml:10:22-71
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\Desktop\CvFitApp\health_monitor\src\main\AndroidManifest.xml:11:5-106
+	android:maxSdkVersion
+		ADDED from D:\Desktop\CvFitApp\health_monitor\src\main\AndroidManifest.xml:11:77-103
+	android:name
+		ADDED from D:\Desktop\CvFitApp\health_monitor\src\main\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.BLUETOOTH_SCAN
+ADDED from D:\Desktop\CvFitApp\health_monitor\src\main\AndroidManifest.xml:14:5-16:58
+	android:usesPermissionFlags
+		ADDED from D:\Desktop\CvFitApp\health_monitor\src\main\AndroidManifest.xml:16:9-55
+	android:name
+		ADDED from D:\Desktop\CvFitApp\health_monitor\src\main\AndroidManifest.xml:15:9-57
+uses-permission#android.permission.BLUETOOTH_CONNECT
+ADDED from D:\Desktop\CvFitApp\health_monitor\src\main\AndroidManifest.xml:17:5-76
+	android:name
+		ADDED from D:\Desktop\CvFitApp\health_monitor\src\main\AndroidManifest.xml:17:22-73
+uses-permission#android.permission.INTERNET
+ADDED from D:\Desktop\CvFitApp\health_monitor\src\main\AndroidManifest.xml:20:5-67
+	android:name
+		ADDED from D:\Desktop\CvFitApp\health_monitor\src\main\AndroidManifest.xml:20:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Desktop\CvFitApp\health_monitor\src\main\AndroidManifest.xml:21:5-79
+	android:name
+		ADDED from D:\Desktop\CvFitApp\health_monitor\src\main\AndroidManifest.xml:21:22-76
+uses-sdk
+INJECTED from D:\Desktop\CvFitApp\health_monitor\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Desktop\CvFitApp\health_monitor\src\main\AndroidManifest.xml
+INJECTED from D:\Desktop\CvFitApp\health_monitor\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Desktop\CvFitApp\health_monitor\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Desktop\CvFitApp\health_monitor\src\main\AndroidManifest.xml

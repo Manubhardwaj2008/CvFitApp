@@ -1,0 +1,3 @@
+com.manu.bsw017
+style Theme_BSW017HealthApp
+xml network_security_config
